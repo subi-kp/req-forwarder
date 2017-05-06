@@ -1,0 +1,15 @@
+{
+  "name": "request-forwarder",
+  "version": "1.0.0",
+  "description": "Every time a new ticket is created, this app makes an API request to backend server",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
